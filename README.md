@@ -1,0 +1,20 @@
+## willow-user 10 QKQ1.200114.002 V12.0.4.0.QCXMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: willow
+- Brand: xiaomi
+- Flavor: willow-user
+- Release Version: 10
+- Kernel Version: 4.14.117
+- Id: QKQ1.200114.002
+- Incremental: V12.0.4.0.QCXMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: xiaomi/willow/willow:10/QKQ1.200114.002/V12.0.4.0.QCXMIXM:user/release-keys
+- OTA version: 
+- Branch: willow-user-10-QKQ1.200114.002-V12.0.4.0.QCXMIXM-release-keys
+- Repo: xiaomi_willow_dump
